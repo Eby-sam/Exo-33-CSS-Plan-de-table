@@ -1,0 +1,190 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 18px;
+}
+
+body {
+    width: 100%;
+}
+
+#container {
+    width: 600px;
+    height: 800px;
+    border: black 1px solid;
+    margin-right: auto;
+    margin-left: auto;
+}
+.one {
+    height: 100px;
+}
+
+#jerome {
+    border: 1px solid black;
+    width: 120px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+#g1 {
+    height: 130px;
+}
+
+#dams {
+    border: 1px solid black;
+    width: 120px;
+    height: 60px;
+    margin-top: 50px;
+}
+
+#sam {
+    border: 1px solid black;
+    width: 60px;
+    height: 120px;
+    display: inline-block;
+    margin-left: 89%;
+    position: relative;
+    bottom: 58px;
+}
+
+#g2 {
+    height: 130px;
+}
+
+#ste {
+    border: 1px solid black;
+    width: 60px;
+    height: 120px;
+    display: inline-block;
+}
+
+#ale {
+    border: 1px solid black;
+    width: 60px;
+    height: 120px;
+    display: inline-block;
+    margin-left: 176px;
+}
+
+#ang {
+    border: 1px solid black;
+    width: 60px;
+    height: 120px;
+    display: inline-block;
+}
+
+#noe {
+    border: 1px solid black;
+    width: 120px;
+    height: 60px;
+    display: inline-block;
+    margin-left: 101px;
+}
+
+#g3 {
+    height: 130px;
+}
+
+#noa {
+    border: 1px solid black;
+    width: 120px;
+    height: 60px;
+    display: inline-block;
+}
+
+#van {
+    border: 1px solid black;
+    width: 60px;
+    height: 120px;
+    display: inline-block;
+    margin-left: 118px;
+}
+
+#syl {
+    border: 1px solid black;
+    width: 60px;
+    height: 120px;
+    display: inline-block;
+}
+
+#oli {
+    border: 1px solid black;
+    width: 120px;
+    height: 60px;
+    display: inline-block;
+    margin-left: 100px;
+    position: relative;
+    top: 40px;
+}
+
+#g4 {
+    height: 130px;
+}
+
+#kev {
+    border: 1px solid black;
+    width: 60px;
+    height: 120px;
+    display: inline-block;
+    margin-left: 528px;
+}
+
+#g5 {
+    height: 130px;
+}
+
+#liz {
+    border: 1px solid black;
+    width: 60px;
+    height: 120px;
+    display: inline-block;
+    margin-left: 47px;
+    position: relative;
+    bottom: 129px;
+    left: 66px;
+}
+
+#man {
+    border: 1px solid black;
+    width: 60px;
+    height: 120px;
+    display: inline-block;
+    position: relative;
+    left: 55px;
+    bottom: 129px;
+}
+
+#hoc {
+    border: 1px solid black;
+    width: 120px;
+    height: 60px;
+    display: inline-block;
+    margin-top: 70px;
+    position: relative;
+    bottom: 69px;
+    left: 60px;
+}
+
+#jon {
+    border: 1px solid black;
+    width: 120px;
+    height: 60px;
+    display: inline-block;
+    position: relative;
+    left: 84px;
+    bottom: 78px;
+}
+
+div {
+    text-align: center;
+}
+
+i {
+    margin-top: 20px;
+}
